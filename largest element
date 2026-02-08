@@ -1,0 +1,4 @@
+# Program to find largest element in a list
+
+lst = list(map(int, input("Enter numbers: ").split()))
+print("Largest element:", max(lst))
